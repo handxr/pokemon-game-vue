@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PokemonPage component > should match the snapshot 1`] = `
+"<div data-v-2108564c=\\"\\" class=\\"container\\">
+  <p data-v-2108564c=\\"\\">Loading...</p>
+</div>"
+`;
+
+exports[`PokemonPage component > should match the snapshot when the component is mounted 1`] = `
+"<div data-v-2108564c=\\"\\" class=\\"container\\">
+  <p data-v-2108564c=\\"\\">Loading...</p>
+</div>"
+`;
